@@ -6,3 +6,6 @@ jj
 
 date sep 19
 sep 29
+oct 4
+oct 9
+oct 20
